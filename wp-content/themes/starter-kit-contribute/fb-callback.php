@@ -48,7 +48,11 @@ $oAuth2Client = $fb->getOAuth2Client();
 // Get the access token metadata from /debug_token
 $tokenMetadata = $oAuth2Client->debugToken($accessToken);
 echo '<h3>Metadata</h3>';
-//var_dump($tokenMetadata);
+var_dump($tokenMetadata);
+
+// Start signup here. Store user facebook ID as a meta field in user. Use email address and a default password like bookingBashFacebookUser786. Username will be bb-FBUID
+// Upon receiving true from user signup process initiate wp_signon()
+// On successfull user signon, redirect to home page.
 
 // Validation (these will throw FacebookSDKException's when they fail)
 //$tokenMetadata->validateAppId(1674992816157003); // Replace {app-id} with your app id
@@ -72,4 +76,4 @@ $_SESSION['fb_access_token'] = (string) $accessToken;
 
 // User is logged in with a long-lived access token.
 // You can redirect them to a members-only page.
-header('Location: http://bookingbash.nnj54dnmv6.us-west-2.elasticbeanstalk.com/#/home/');
+//header('Location: http://bookingbash.nnj54dnmv6.us-west-2.elasticbeanstalk.com/#/home/');
