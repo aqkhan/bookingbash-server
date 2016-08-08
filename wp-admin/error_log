@@ -1,0 +1,15 @@
+[15-Jun-2016 10:43:03 UTC] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING) in /home4/sash024/public_html/projects/bbash/wp-content/themes/twentysixteen/functions.php on line 1
+[15-Jun-2016 10:44:04 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/sash024/public_html/projects/bbash/wp-content/themes/twentysixteen/functions.php on line 1
+[15-Jun-2016 10:46:04 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/sash024/public_html/projects/bbash/wp-content/themes/twentysixteen/functions.php on line 1
+[15-Jun-2016 10:47:04 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/sash024/public_html/projects/bbash/wp-content/themes/twentysixteen/functions.php on line 1
+[15-Jun-2016 10:48:04 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/sash024/public_html/projects/bbash/wp-content/themes/twentysixteen/functions.php on line 1
+[15-Jun-2016 10:50:04 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/sash024/public_html/projects/bbash/wp-content/themes/twentysixteen/functions.php on line 1
+[15-Jun-2016 10:50:12 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/sash024/public_html/projects/bbash/wp-content/themes/twentysixteen/functions.php on line 1
+[15-Jun-2016 10:50:38 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/sash024/public_html/projects/bbash/wp-content/themes/twentysixteen/functions.php on line 1
+[15-Jun-2016 10:51:00 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/sash024/public_html/projects/bbash/wp-content/themes/twentysixteen/functions.php on line 1
+[15-Jun-2016 10:51:22 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/sash024/public_html/projects/bbash/wp-content/themes/twentysixteen/functions.php on line 1
+[15-Jun-2016 10:51:40 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/sash024/public_html/projects/bbash/wp-content/themes/twentysixteen/functions.php on line 1
+[15-Jun-2016 10:52:06 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/sash024/public_html/projects/bbash/wp-content/themes/twentysixteen/functions.php on line 1
+[16-Jun-2016 07:48:33 UTC] PHP Fatal error:  Class 'JSON_API_Response' not found in /home4/sash024/public_html/projects/bbash/wp-content/plugins/json-api/singletons/api.php on line 8
+[17-Jun-2016 18:03:08 UTC] PHP Parse error:  syntax error, unexpected '}' in /home4/sash024/public_html/projects/bbash/wp-content/plugins/json-api/controllers/bash.php on line 491
+[27-Jun-2016 10:36:11 UTC] PHP Fatal error:  Class 'JSON_API_Response' not found in /home4/sash024/public_html/projects/bbash/wp-content/plugins/json-api/singletons/api.php on line 8

@@ -1,0 +1,51 @@
+[
+    {
+        "name": "facebook/php-sdk",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/facebookarchive/facebook-php-sdk.git",
+            "reference": "8e7e7951e99d86b68ce1135537d559663d759af0"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/facebookarchive/facebook-php-sdk/zipball/8e7e7951e99d86b68ce1135537d559663d759af0",
+            "reference": "8e7e7951e99d86b68ce1135537d559663d759af0",
+            "shasum": ""
+        },
+        "require": {
+            "ext-curl": "*",
+            "ext-json": "*",
+            "php": ">=5.2.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "3.7.*"
+        },
+        "time": "2015-01-13 19:27:37",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "classmap": [
+                "src"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Apache2"
+        ],
+        "authors": [
+            {
+                "name": "Facebook",
+                "homepage": "https://github.com/facebook/facebook-php-sdk/contributors"
+            }
+        ],
+        "description": "Facebook PHP SDK",
+        "homepage": "https://github.com/facebook/facebook-php-sdk",
+        "keywords": [
+            "facebook",
+            "sdk"
+        ],
+        "abandoned": "facebook/php-sdk-v4"
+    }
+]
